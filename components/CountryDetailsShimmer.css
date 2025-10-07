@@ -1,0 +1,43 @@
+* 
+{
+    box-sizing: border-box;
+}
+.shimmer-image
+{
+    background-color: #ccc;
+    width: 500px;
+    height: 260px;
+    /* padding: 100px; */
+    margin-top: 100px;
+    margin-left: 100px;
+}
+/* .detailsImage  
+{   
+}  */
+.shimmer-heading
+{
+    background-color: #ccc;
+    height: 85px;
+    width: 300px;
+}
+/* .details-text 
+{
+    background-color: #ccc;
+} */
+.shimmer-Text 
+{
+    background-color: #ccc;
+    height: 300px;
+    width: 400px;
+}
+.country-details-container 
+{
+    padding: 40px;
+}
+
+
+.country-details 
+{
+    display: flex;
+    gap: 50px;
+}

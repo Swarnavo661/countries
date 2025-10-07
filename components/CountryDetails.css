@@ -1,0 +1,40 @@
+* 
+{
+    box-sizing: border-box;
+}
+.country-details-container 
+{
+    padding: 40px;
+}
+.country-details 
+{
+    display: flex;
+    gap: 50px;
+}
+.back-button 
+{
+    cursor: pointer;
+}
+.fa-arrow-left 
+{
+    cursor: pointer;
+}
+img 
+{
+    width: 500px;
+}
+.detailsImage  
+{
+    margin-top: 40px;
+}
+
+body.dark-mode .country-details-container 
+{
+    color: white;
+}
+.border-countries a {
+    padding: 4px 16px;
+    box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    font-size: 14px;
+}
